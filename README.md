@@ -24,6 +24,18 @@ Note: Ticket type, Status of the ticket, Applications, priority are hard coded. 
 
 ***
 
+**High level architecture**
+
+- Client  
+*Angular JS for routing, HTTP calls to the server and binding data.   
+*Bootstrap/ HTML5 for UI design.   
+
+- Server   
+* Node JS - REST APIs for exposing data.  
+* MongoDB as the back end database.  
+
+****
+
 **Planned updates.**    
 
 bugs-buddy should be able to-    
