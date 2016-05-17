@@ -48,7 +48,10 @@ Voila. UI libraries are included in the package. User needs to download only the
 
 This release contains the basic functionalities and the foundation for the proposed features.
 
-Credits : 
+**Credits**
+****
+Website Template : [tui2tone](https://github.com/tui2tone/flat-admin-bootstrap-templates)
+Angular Datatables : [Louis Lin](https://github.com/l-lin/angular-datatables)
 
 
 
