@@ -51,7 +51,7 @@ Chat System.
 I do not have a definite time frame for each release. But, would continue the development. Please feel free to contribute.    
 
 
-**DEMO** : 
+**DEMO** : [Click here](http://bugs-buddy.herokuapp.com/)
 
 **Instructions **
 ****
